@@ -1,0 +1,275 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
+
+section{
+    padding: 50px;
+    overflow: hidden;
+}
+
+.heading{
+
+    text-align: center;
+    font-weight: 700;
+}
+
+.heading h2{
+    font-size: 1.5em;
+}
+
+.heading.white{
+    color: #fff;
+}
+
+
+
+
+header{
+    color:#f4f4f4;
+    background: #071d2b;
+    padding: 20px 100px;
+    border-bottom: 3px solid #a52a2a;
+    display: flex;
+    justify-content: space-between;
+}
+
+header .branding a{
+    font-size: 24px;
+    text-decoration: none;
+    letter-spacing: 1.2;
+    color: #fff;
+    font-weight: 700;
+    text-transform: uppercase;
+    
+}
+
+header ul{  
+    display: flex;
+}
+
+header ul li{
+    list-style-type: none;
+    
+}
+
+header ul li a{
+    color: #f4f4f4;
+    margin: 0 20px;
+    text-decoration: none;
+}
+
+
+
+
+
+
+/* section banner */
+
+.banner{
+    background: url(./us.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 400px;
+    text-align: center;
+    color: #fff;
+}
+
+
+
+.banner h2{
+    padding-top: 100px;
+    font-size: 3em;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+
+.banner p{
+    font-size: 16px;
+}
+
+
+.newsletter{
+    background: #071d2b;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 100px;
+}
+
+input[type='email']{
+    padding: 5px;
+    height: 25px;
+    width: 250px;
+
+}
+input[type='submit']{
+    padding: 5px;
+    background-color: #e8491d;
+    color: #fff;
+    cursor: pointer;
+    border: 1px solid #fff;
+    text-transform: uppercase;
+
+}
+
+
+.boxes .content{
+    display: flex;
+    row-gap: 10px;
+   
+}
+
+.box{
+    text-align: center;
+}
+
+.box img{
+    width: 150px;
+}
+
+
+.article{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 20px;
+    
+}
+
+
+
+.object{
+    background-color: #071d2b;
+    color: #f4f4f4;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+.current{
+    background-color: #e8491d;
+    padding: 2px;
+}
+
+.footer{
+    padding: 20px;
+    text-align: center;
+    color: white;
+    background-color: #e8491d;
+   }
+
+.offers li{
+    list-style-type: none;
+    padding: 20px;
+    border: 2px solid #cccc;
+    background:#e6e6e6;
+    margin-bottom: 5px;
+}
+
+.offers h2, .offers p{
+    margin-bottom: 10px;
+}
+
+.article form{
+    width: 95%;
+    height: 300px;
+}
+
+form > div {
+    margin-bottom: 10px;
+}
+
+textarea{
+    width: 100%;
+}
+
+
+
+/* Instant media queries */
+/* section Newsletter */
+
+@media (max-width:768px){
+    
+    
+    section{
+        padding: 50px;
+    }
+    
+    header{
+        display: block;
+        text-align: center;    
+    }
+    
+    header ul {
+        padding-top: 20px;
+        justify-content: center;
+    }
+    
+    .banner h2{
+        font-size: 2.3em;
+    }
+    
+    .newsletter{
+        display: block;
+        text-align: center;
+        padding: 30px 100px;
+        
+    }
+    
+    input[type='submit'], input[type='email'] {
+        display: block;
+        text-align: center;
+        margin: auto;
+        width: 85%;
+        margin-bottom: 10px;
+    }
+    
+    .heading h2{
+        font-size: 1em;
+        margin-bottom: 10px;
+    }
+    
+
+    .boxes .content, .box {
+        display: block;
+        padding: 10px;
+       
+    }
+        .box {
+        display: block;
+        padding: 10px;
+       margin-bottom: 20px;
+    }
+
+    .object h2{
+        text-align: center;
+        padding-bottom: 10px;
+    }
+   
+    .article{
+        display: block;
+    }
+
+
+  .article input[type='email'], .article input[type='text'] {
+        width: 100%;
+        padding: 5px;
+    }
+
+    .article ul{
+        display: block;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+
+    .object {
+        margin: 0 auto;
+    }
+    
+} 

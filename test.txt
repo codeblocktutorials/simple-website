@@ -1,0 +1,43 @@
+//////////Homepage
+Affordable Professional Web Design
+
+Lorem ipsum, dolor sit amet consectetur adipisicing elit mccim freduig. <br>
+                 Nisi architecto quas pariatur at debitis facilis expedita aspe
+                 rnatur quam aperiam quis.
+
+Subscribe to Our newsletter
+
+Graphic Design
+CSS3 Styling
+HTML5 Markup
+Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quas reprehenderit ex amet.
+Designed by codeblock copyright &copy 2020
+
+//////////////////About
+About Us
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia atque perspiciatis dolore, numquam nemo consequatur sit expedita, a praesentium cumque hic accusantium esse consequuntur vitae aut! Recusandae ea magni officia dignissimos hic iusto voluptatibus iure, quis aliquam accusamus nulla voluptatum.Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos vero hic possimus asperiores atque sint delectus 
+omnis aperiam doloribus recusandae commodi laborum iure voluptatibus natus,
+
+inventore totam quaerat facilis numquam quisquam 
+                sed nobis culpa nihil tempora? Sit amet quidem reprehenderit deserunt, maiores ipsum impedit animi sunt aliquam! Quis commodi non ex. Rem doloribus id, earum, dolore vel a beatae nihil minima, cum atque molestiae unde itaque animi eos quia quas! Quam at eaque illo placeat rem, laborum rerum facilis? Temporibus unde deleniti rem dolorem iste incidunt laboriosam ab ut, amet magni officiis, ipsum architecto, quidem reprehenderit eius nobis libero nisi.
+
+
+what we do
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. Labore corporis quaerat nostrum vero omnis nam voluptate ea et! Quibusdam officia minus aliquid reiciendis tempore excepturi neque nesciunt, <br>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias minus quas enim iure debitis, aspernatur at magni aperiam officia repudiandae? Consequuntur cupiditate incidunt maiores, temporibus at nihil nobis asperiores odit. molestias recusandae odio!
+
+////////////////Services
+Web Hosting
+
+Lorem ipsum dolor sit amet consectetur Lorem ipsum, dolor Lorem ipsum dolor sit amet consectetur adipisicing elit. sit amet consectetur  <br>
+                         elit. Quam, laboriosam. adipisicing elit. Veniam quo veritatis laborum. Deserunt modi laborum saepe necessitatibus ipsa nemo tempora.
+
+
+Website Maintenance
+Price : $250 per Month
+
+
+Web Design
+Price : $500 - $1000
+
+
